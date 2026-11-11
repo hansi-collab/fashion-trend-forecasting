@@ -1,0 +1,6 @@
+interface:
+  display_name: "Fashion Trend Forecasting"
+  short_description: "Detailed fashion forecasts with seasonal moodboards"
+  default_prompt: "Use $fashion-trend-forecasting to create a full womenswear forecast with dated evidence, colour palettes, design direction and a visual moodboard for every trend story and season."
+policy:
+  allow_implicit_invocation: true
